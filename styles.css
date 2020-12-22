@@ -1,0 +1,42 @@
+form{
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+
+form p{
+  margin: 0;
+}
+
+input{
+  margin: 4px;
+  width: 96px;
+}
+input, button{
+  margin: 4px;
+  width: 80px;
+}
+
+#timeLine{
+  width: 500px;
+  height: 700px;
+  border: 2px solid black;
+  border-radius: 4px;
+}
+
+.post{
+  font-weight: bold;
+}
+
+.invisible{
+  display: none;
+}
+
+#target{
+  width: 500px;
+  height: 200px;
+}
+
+
+
+
